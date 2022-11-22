@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beadc835-5546-4de1-932b-efee2615776d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/python/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +33,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mirasa/IdeaProjects/Learn_Things/scripts/terraform/explore",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/terraform/explore" />
+      <recent name="$PROJECT_DIR$/scripts/terraform/aws_arch_labs" />
+      <recent name="$PROJECT_DIR$/scripts/terraform/aws_arch_labs/" />
       <recent name="$PROJECT_DIR$/scripts/terraform" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts/terraform/aws_arch_labs" />
+      <recent name="$PROJECT_DIR$/scripts/terraform" />
+      <recent name="$PROJECT_DIR$/scripts/terraform/explore" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668856654739</updated>
       <workItem from="1668856657577" duration="4612000" />
-      <workItem from="1668863060697" duration="5549000" />
+      <workItem from="1668863060697" duration="17948000" />
     </task>
     <servers />
   </component>

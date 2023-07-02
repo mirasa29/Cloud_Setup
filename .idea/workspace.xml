@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beadc835-5546-4de1-932b-efee2615776d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/. gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn_Things.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud_Setup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/python/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/python/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +183,7 @@
       <workItem from="1674812221488" duration="572000" />
       <workItem from="1674829901403" duration="591000" />
       <workItem from="1688303998775" duration="4589000" />
-      <workItem from="1688309367180" duration="613000" />
+      <workItem from="1688309367180" duration="1500000" />
     </task>
     <servers />
   </component>

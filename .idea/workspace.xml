@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beadc835-5546-4de1-932b-efee2615776d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/python/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/python/Test.py" afterDir="false" />
     </list>
@@ -183,7 +182,7 @@
       <workItem from="1674812221488" duration="572000" />
       <workItem from="1674829901403" duration="591000" />
       <workItem from="1688303998775" duration="4589000" />
-      <workItem from="1688309367180" duration="1500000" />
+      <workItem from="1688309367180" duration="2468000" />
     </task>
     <servers />
   </component>
